@@ -1,0 +1,14 @@
+{
+  "name": "aakham-website",
+  "description": "",
+  "main": "index.html",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "author": "Sathish Gajendran",
+  "license": "ISC"
+}
